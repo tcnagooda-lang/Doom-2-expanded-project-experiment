@@ -8,3 +8,6 @@ The maps are based on the original doom 2 layouts, but with carefully designed e
 This project uses the UDMF map format, allowing features that were impossible in the original doom 2 engine, such as true 3D floors, deep water, where the player can actually sink, bridges and structures that the player can walk over and under... These features are integrated naturally into gameplay, not just as visual gimmicks.
 
 This mod is not a remake, not a remaster, and not a vanilla replacement. It is a reinterpretation of doom 2. Familiar, but not identical. Modern, but still Doom. Expanded, without losing identity... and with some extra things. If you enjoy doom 2 and want a fresh experience that still respects the original game’s essence, this project is made for you. Feel free to mod if you want.
+
+## Download
+https://mega.nz/file/q1RgTaKL#Upmb5s8Fim0tw9y5asi4q3QEwKYexvFRtp1nUnO-zko
